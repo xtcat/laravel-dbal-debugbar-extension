@@ -1,0 +1,20 @@
+{
+  "name": "xtcat/laravel-dbal-debugbar-extension",
+  "description": "Laravel debugbar extension to show dbal queries",
+  "keywords": ["laravel", "laravel5", "dbal", "debugbar"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Peter Otto",
+      "email": "peterotto87@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Xtcat\\LaravelDbalDebugbarExtension\\": "src"
+    }
+  }
+}
