@@ -2,7 +2,7 @@
 
 When your project is using dbal as a database layer, this small extension will show all queries.
 
-![alt text](https://raw.githubusercontent.com/xtcat/laravel-dbal-debugbar-extension/master/docs/laravel-dbal-debugbar-extension.png)
+![alt text](https://raw.githubusercontent.com/xtcat/laravel-dbal-debugbar-extension/master/docs/preview.png)
 
 ## How to use
 Require this package with composer. It is recommended to only require the package for development.
